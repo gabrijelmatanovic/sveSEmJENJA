@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\jkdssdkj\jkdssdkj\bin\Debug\jkdssdkj.exe.config
+C:\Users\Ucenik\source\repos\jkdssdkj\jkdssdkj\bin\Debug\jkdssdkj.exe
+C:\Users\Ucenik\source\repos\jkdssdkj\jkdssdkj\bin\Debug\jkdssdkj.pdb
+C:\Users\Ucenik\source\repos\jkdssdkj\jkdssdkj\obj\Debug\jkdssdkj.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\jkdssdkj\jkdssdkj\obj\Debug\jkdssdkj.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\jkdssdkj\jkdssdkj\obj\Debug\jkdssdkj.exe
+C:\Users\Ucenik\source\repos\jkdssdkj\jkdssdkj\obj\Debug\jkdssdkj.pdb
